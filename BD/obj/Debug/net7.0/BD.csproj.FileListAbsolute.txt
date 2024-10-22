@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Project\eKanbax\WebApp\BD\bin\Debug\net7.0\BD.deps.json
+C:\xampp\htdocs\Project\eKanbax\WebApp\BD\bin\Debug\net7.0\BD.dll
+C:\xampp\htdocs\Project\eKanbax\WebApp\BD\bin\Debug\net7.0\BD.pdb
+C:\xampp\htdocs\Project\eKanbax\WebApp\BD\bin\Debug\net7.0\Entity.dll
+C:\xampp\htdocs\Project\eKanbax\WebApp\BD\bin\Debug\net7.0\Entity.pdb
+C:\xampp\htdocs\Project\eKanbax\WebApp\BD\obj\Debug\net7.0\BD.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Project\eKanbax\WebApp\BD\obj\Debug\net7.0\BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Project\eKanbax\WebApp\BD\obj\Debug\net7.0\BD.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Project\eKanbax\WebApp\BD\obj\Debug\net7.0\BD.AssemblyInfo.cs
+C:\xampp\htdocs\Project\eKanbax\WebApp\BD\obj\Debug\net7.0\BD.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Project\eKanbax\WebApp\BD\obj\Debug\net7.0\BD.csproj.CopyComplete
+C:\xampp\htdocs\Project\eKanbax\WebApp\BD\obj\Debug\net7.0\BD.dll
+C:\xampp\htdocs\Project\eKanbax\WebApp\BD\obj\Debug\net7.0\refint\BD.dll
+C:\xampp\htdocs\Project\eKanbax\WebApp\BD\obj\Debug\net7.0\BD.pdb
+C:\xampp\htdocs\Project\eKanbax\WebApp\BD\obj\Debug\net7.0\ref\BD.dll
